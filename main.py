@@ -420,7 +420,7 @@ def user_menu(username):
 
 def manager_menu(username):
     while True:
-        menu = input("\n+++ Manager Menu +++\n(1)View all users\n(2)View Users (Search)\n(3)View report of all users for Competency\n(4)View Competency level report for individual\n(5)view Assessment History for individual\n(6)Add User/Competency/Assessment/Assessment result\n(7)Edit User/Competency/Assessment/Assessment\n(8)Import Assessment Data\n(9)Export User List or Competency List\n(10)Quit\n>>>")
+        menu = input("\n+++ Manager Menu +++\n(1)View all users\n(2)View Users (Search)\n(3)View report of all users for Competency\n(4)View Competency level report for individual\n(5)view Assessment History for individual\n(6)Add User/Competency/Assessment/Assessment Result\n(7)Edit User/Competency/Assessment/Assessment Result\n(8)Import Assessment Data\n(9)Export User List or Competency List\n(10)Quit\n>>>")
         if menu == "1":
             view_data("all users")
         elif menu == "2":
