@@ -276,6 +276,7 @@ def view_data(key,username=None,ID=None):
         for row in rows:
             row = [(str(i) if i or i == 0 else "None") for i in row]
             print(f'{row[0]:9}{row[1]:15}{row[2]:15}{row[3]:12}{row[4]:30}{row[6]:8}{row[7]:21}{row[8]:20}{row[9]}')
+    
     if key == 'all managers':
         rows = cursor.execute('SELECT * FROM Users WHERE user_type = 0').fetchall()
         print(f'\n{"User ID":9}{"First Name":15}{"Last Name":15}{"Phone":12}{"Email":30}{"Active":8}{"Date Created":21}{"Hire Date":20}{"User Type"}')
