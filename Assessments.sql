@@ -1,0 +1,15 @@
+insert into Assessments (name, competency_id) values("Data Types Test",1);
+insert into Assessments (name, competency_id) values("Variables Test",2);
+insert into Assessments (name, competency_id) values("Functions Test",3);
+insert into Assessments (name, competency_id) values("Boolean Logic Test",4);
+insert into Assessments (name, competency_id) values("Conditionals Test",5);
+insert into Assessments (name, competency_id) values("Loops Test",6);
+insert into Assessments (name, competency_id) values("Data Structures Test",7);
+insert into Assessments (name, competency_id) values("Lists Test",8);
+insert into Assessments (name, competency_id) values("Dictionaries Test",9);
+insert into Assessments (name, competency_id) values("Working with Files Test",10);
+insert into Assessments (name, competency_id) values("Exception Handling Test",11);
+insert into Assessments (name, competency_id) values("Quality Assurance (QA) Test",12);
+insert into Assessments (name, competency_id) values("Object-Oriented Prgoramming Test",13);
+insert into Assessments (name, competency_id) values("Recursion Test",14);
+insert into Assessments (name, competency_id) values("Databases Test",15);

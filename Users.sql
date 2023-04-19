@@ -1,0 +1,10 @@
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Marilee', 'De Zamudio', 'mdezamudio0@usgs.gov', '1811487425', 'Pqdj9xTGBdu', '2022-08-09');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Dame', 'Von Helmholtz', 'dvonhelmholtz1@earthlink.net', '3709135484', 'rUGyW5hKRE', '2023-03-07');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Sigvard', 'Danbrook', 'sdanbrook2@icq.com', '6711648697', 'QI32N5K', '2023-03-30');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Layton', 'Laurencot', 'llaurencot3@rediff.com', '7276562388', 'rgSuzCOiFXi', '2023-01-19');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Dagmar', 'Rigge', 'drigge4@wikia.com', '1924171573', '9uW8PrgGK', '2022-11-04');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Maryrose', 'Mansion', 'mmansion5@tiny.cc', '7955220017', 't8tA9GvKy8qC', '2022-12-14');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Wilfrid', 'Laviss', 'wlaviss6@weebly.com', '3052213788', 'cCxdKmlvf', '2022-10-18');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Flori', 'Roke', 'froke7@nydailynews.com', '7629383188', 'NBFLKXstOo', '2022-05-30');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Hymie', 'Maryin', 'hmaryin8@ning.com', '9387733999', 'QpJH5iM33', '2023-01-24');
+insert into Users (first_name, last_name, email, phone, password, date_created) values ('Tabby', 'Goadsby', 'tgoadsby9@mit.edu', '4656778439', 'RbHeQgEb4c', '2022-05-24');

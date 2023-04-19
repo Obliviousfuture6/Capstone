@@ -1,0 +1,15 @@
+insert into Competencies (name) values("Data Types");
+insert into Competencies (name) values("Variables");
+insert into Competencies (name) values("Functions");
+insert into Competencies (name) values("Boolean Logic");
+insert into Competencies (name) values("Conditionals");
+insert into Competencies (name) values("Loops");
+insert into Competencies (name) values("Data Structures");
+insert into Competencies (name) values("Lists");
+insert into Competencies (name) values("Dictionaries");
+insert into Competencies (name) values("Working with Files");
+insert into Competencies (name) values("Exception Handling");
+insert into Competencies (name) values("Quality Assurance (QA)");
+insert into Competencies (name) values("Object-Oriented Prgoramming");
+insert into Competencies (name) values("Recursion");
+insert into Competencies (name) values("Databases");
