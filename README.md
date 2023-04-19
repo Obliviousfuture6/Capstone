@@ -13,7 +13,7 @@ password: abc123
 (4)View Competency level report for individual       
 (5)view Assessment History for individual  
 (6)Add User/Competency/Assessment/Assessment result  
-(7)Edit User/Competency/Assessment/Assessment        
+(7)Edit User/Competency/Assessment/Assessment result        
 (8)Import Assessment Data  
 (9)Export User List or Competency List  
 (10)Quit  
